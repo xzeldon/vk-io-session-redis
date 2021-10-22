@@ -19,7 +19,7 @@ npm i vk-io-session-redis
 
 ```js
 import { VK } from "vk-io";
-import { RedisSession } from "./src/index.js";
+import { RedisSession } from "vk-io-session-redis";
 
 const bot = new VK({
     token: process.env.TOKEN

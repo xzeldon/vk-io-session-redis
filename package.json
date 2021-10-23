@@ -1,6 +1,6 @@
 {
   "name": "vk-io-session-redis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple implementation of Redis session for vk-io",
   "license": "MIT",
   "author": {

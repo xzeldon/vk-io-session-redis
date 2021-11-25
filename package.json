@@ -19,7 +19,7 @@
     "node": ">=13"
   },
   "dependencies": {
-    "redis": "^3.1.2"
+    "redis": "^4.0.0"
   },
   "devDependencies": {
     "vk-io": "^4.4.0"
